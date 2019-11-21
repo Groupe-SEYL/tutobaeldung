@@ -1,5 +1,6 @@
 # Tutorial de Baeldung
-Un tuto qui connecte Spring Boot et Angular. Le tutorial crée une simple application avec un untilisateur à persister dans le backend et à montrer la liste dans le frontend
+Un tuto qui connecte Spring Boot et Angular. Le tutorial crée une simple application avec un untilisateur à persister dans le backend et à montrer la liste dans le frontend - [Lien du Tuto](https://www.baeldung.com/spring-boot-angular-web)
+**Attention: certaines fonctionnalités sont susceptibles de ne pas fonctionner si vous recommencez le tuto à la lettre**
 
 ## Lancement
 Pour lancer l'application, lancer Spring Boot en premier et Angular en second. Utiliser l'IDE ou l'invite de commandes dans leurs dossiers respectifs
